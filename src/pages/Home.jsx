@@ -2,6 +2,7 @@ import { useState } from "react";
 import Footer from "./Footer";
 import Navigation from "./Navigation"
 import MovieDetail from "./MovieDetail";
+
 const Home = ({
     activeTab,
     setActiveTab,
